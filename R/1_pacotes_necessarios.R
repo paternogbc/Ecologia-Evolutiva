@@ -1,5 +1,6 @@
 ### Pacotes necessários---------------------------------------------------------
 
+### Início:
 # Instalação:
 install.packages("ape")
 install.packages("phytools")
@@ -8,4 +9,5 @@ install.packages("caper")
 install.packages("phylolm")
 install.packages("devtools")
 devtools::install_github("paternogbc/sensiPhy")
-################################################################################
+
+### Fim ------------------------------------------------------------------------
