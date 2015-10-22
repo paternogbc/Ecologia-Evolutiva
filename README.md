@@ -7,12 +7,13 @@ Material didático para o curso de Ecologia Evolutiva (PPG-ECO) - UFRN
 Este repositório agrega tutoriais em R para diversas etapas de análises
 filogenéticas:
 
-* Como manipular árvores filogenéticas? [link]()
-* Como plotar características das espécies na filogenia? [link]()
-* Como testar o sinal filogenético de uma característica? [link]()
-* Como ajustar regressões filogenéticas (PGLS)? [link]()
-* Como realizar análises de sensibilidade em métodos comparativos [link]()
-* Como calcular métricas filogenéticas em ecologia de comunidades? [link]()
+1. Instale os pacotes necessários para rodar todos os tutoriais [link]()
+2. Como manipular árvores filogenéticas? [link]()
+3. Como plotar características das espécies na filogenia? [link]()
+4. Como testar o sinal filogenético de uma característica? [link]()
+5. Como ajustar regressões filogenéticas (PGLS)? [link]()
+6. Como realizar análises de sensibilidade em métodos comparativos [link]()
+7. Como calcular métricas filogenéticas em ecologia de comunidades? [link]()
 
 --------------------------------------------------------------------------------
 
