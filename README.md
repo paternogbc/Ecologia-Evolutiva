@@ -16,5 +16,6 @@ filogenéticas:
 
 --------------------------------------------------------------------------------
 
-Deseja ajudar a melhorar esse projeto? Abra um [issue]() com sua sugestão ou
-crie um [fork]() deste repositório e crie um Pull request.
+Deseja ajudar a melhorar esse projeto? Abra um [issue](https://github.com/paternogbc/EcologiaEvolutiva-UFRN/issues/new) com sua sugestão ou
+crie um __fork__ deste repositório (botão no canto superior direito) e 
+crie um Pull request. Você também pode criar um fork apenas para salvar todo o conteúdo deste repositório na sua conta GitHub.
