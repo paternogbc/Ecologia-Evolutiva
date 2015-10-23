@@ -9,11 +9,12 @@ filogenéticas:
 
 1. Instale os pacotes necessários para rodar todos os tutoriais [link](https://github.com/paternogbc/EcologiaEvolutiva-UFRN/blob/master/R/1_pacotes_necessarios.R)
 2. Como manipular árvores filogenéticas? [link](https://github.com/paternogbc/EcologiaEvolutiva-UFRN/blob/master/R/2_manipular_arvores_filogeneticas.R)
-3. Como plotar características das espécies na filogenia? [link]()
-4. Como testar o sinal filogenético de uma característica? [link]()
-5. Como ajustar regressões filogenéticas (PGLS)? [link]()
-6. Como realizar análises de sensibilidade em métodos comparativos [link]()
-7. Como calcular métricas filogenéticas em ecologia de comunidades? [link]()
+3. Como cruzar um banco de dados com sua filogenia? [link]()
+4. Como plotar características das espécies na filogenia? [link]()
+5. Como testar o sinal filogenético de uma característica? [link]()
+6. Como ajustar regressões filogenéticas (PGLS)? [link]()
+7. Como realizar análises de sensibilidade em métodos comparativos [link]()
+8. Como calcular métricas filogenéticas em ecologia de comunidades? [link]()
 
 --------------------------------------------------------------------------------
 
