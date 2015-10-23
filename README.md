@@ -18,13 +18,10 @@ filogenéticas:
 
 --------------------------------------------------------------------------------
 
-### Autores:
-
-
---------------------------------------------------------------------------------
-
 ### Download:
 Para baixar todos os tutoriais: [zip](https://github.com/paternogbc/EcologiaEvolutiva-UFRN/archive/master.zip)
+
+***
 
 Deseja ajudar a melhorar esse projeto? Abra um [issue](https://github.com/paternogbc/EcologiaEvolutiva-UFRN/issues/new) com sua sugestão ou
 crie um __fork__ deste repositório (botão no canto superior direito) e 
