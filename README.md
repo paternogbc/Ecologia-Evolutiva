@@ -8,7 +8,7 @@ Este repositório agrega tutoriais em R para diversas etapas de análises
 filogenéticas:
 
 1. Instale os pacotes necessários para rodar todos os tutoriais [link](https://github.com/paternogbc/EcologiaEvolutiva-UFRN/blob/master/R/1_pacotes_necessarios.R)
-2. Como manipular árvores filogenéticas? [link]()
+2. Como manipular árvores filogenéticas? [link](https://github.com/paternogbc/EcologiaEvolutiva-UFRN/blob/master/R/2_manipular_arvores_filogeneticas.R)
 3. Como plotar características das espécies na filogenia? [link]()
 4. Como testar o sinal filogenético de uma característica? [link]()
 5. Como ajustar regressões filogenéticas (PGLS)? [link]()
