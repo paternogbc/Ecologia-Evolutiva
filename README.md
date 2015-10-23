@@ -22,6 +22,10 @@ filogenéticas:
 Carlos R. Fonseca; Juan P. Zurano; Guilherme G. Mazzochini & Gustavo B. Paterno
 
 --------------------------------------------------------------------------------
+
+### Download:
+Para baixar todos os tutoriais: [zip](https://github.com/paternogbc/EcologiaEvolutiva-UFRN/archive/master.zip)
+
 Deseja ajudar a melhorar esse projeto? Abra um [issue](https://github.com/paternogbc/EcologiaEvolutiva-UFRN/issues/new) com sua sugestão ou
 crie um __fork__ deste repositório (botão no canto superior direito) e 
 crie um Pull request. Você também pode criar um fork apenas para salvar todo o conteúdo deste repositório na sua conta GitHub.
