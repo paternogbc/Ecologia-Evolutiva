@@ -1,6 +1,6 @@
 # Ecologia Evolutiva em R
 
-Material didático para análises filogenéticas e métodos comparativos em R
+Tutoriais para análises filogenéticas e métodos comparativos em R
 
 --------------------------------------------------------------------------------
 
