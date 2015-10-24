@@ -1,6 +1,6 @@
-# Ecologia Evolutiva | PPG-Eco (UFRN)
+# Ecologia Evolutiva | Métodos Comparativos em R
 
-Material didático para o curso de Ecologia Evolutiva (PPG-ECO) - UFRN
+Material didático para análises filogenéticas e métodos comparativos em R
 
 --------------------------------------------------------------------------------
 
