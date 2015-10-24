@@ -16,6 +16,8 @@ filogenéticas:
 7. Como realizar análises de sensibilidade em métodos comparativos [link]()
 8. Como calcular métricas filogenéticas em ecologia de comunidades? [link]()
 
+* Acesse todos os scripts [link](https://github.com/paternogbc/Ecologia-Evolutiva/tree/master/R)
+
 --------------------------------------------------------------------------------
 
 ### Download:
