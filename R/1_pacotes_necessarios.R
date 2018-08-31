@@ -7,7 +7,5 @@ install.packages("phytools")
 install.packages("picante")
 install.packages("caper")
 install.packages("phylolm")
-install.packages("devtools")
-devtools::install_github("paternogbc/sensiPhy")
-
+install.packages("sensiPhy")
 ### Fim ------------------------------------------------------------------------
