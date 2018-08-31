@@ -15,13 +15,13 @@ métodos comparativos filogenéticos no software estatístico R. Neste curso o a
 
 ### Como utilizar esse repositório:
 
-1. Instale os pacotes necessários para rodar todos os tutoriais:  [link.](https://github.com/paternogbc/Ecologia-Evolutiva/blob/master/R/1_pacotes_necessarios.R)
+1. Baixe e instale o [R](https://www.r-project.org/) e o [R studio](https://www.rstudio.com/products/rstudio/download/#download) no seu computador.
+
+2. Instale os pacotes de R que serão necessários para rodar todos os tutoriais:  [link.](https://github.com/paternogbc/Ecologia-Evolutiva/blob/master/R/1_pacotes_necessarios.R)
+
+3. Faça o download deste repositório e acompanhe as aulas e exercícios utilizando o Programa R studio: [link.](https://github.com/paternogbc/Ecologia-Evolutiva/archive/master.zip)
 
 --------------------------------------------------------------------------------
 
-### Download:
-Para baixar todos os arquivos do repositório: [link.](https://github.com/paternogbc/Ecologia-Evolutiva/archive/master.zip)
-
-***
-
-Deseja ajudar a melhorar esse projeto? Secadastre no [Github]() e abra um [issue]() com sua sugestão ou crie um [fork]() deste repositório, faça modificações e submeta um Pull request. Você também pode criar um fork apenas para salvar todo o conteúdo deste repositório na sua conta GitHub.
+### Como ajudar a melhorar esse repositório?
+Deseja ajudar a melhorar esse projeto? Encontrou algum erro de digitação? Algum problema no código, nos exercícios ou gostaria de sugerir um novo tema ou função para o curso? Se cadastre no [Github](https://github.com/) e abra um [issue](https://github.com/paternogbc/Ecologia-Evolutiva/issues/new) com sua sugestão ou crie um fork deste repositório, faça modificações e submeta um Pull request. Você também pode criar um fork apenas para salvar todo o conteúdo deste repositório na sua conta GitHub.
