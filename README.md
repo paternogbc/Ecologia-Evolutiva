@@ -14,12 +14,13 @@ métodos comparativos filogenéticos no software estatístico R. Neste curso o a
 --------------------------------------------------------------------------------
 
 ### Como utilizar esse repositório:
-1. Instale os pacotes necessários para rodar todos os tutoriais [link](https://github.com/paternogbc/Ecologia-Evolutiva/blob/master/R/1_pacotes_necessarios.R)
+
+1. Instale os pacotes necessários para rodar todos os tutoriais:  [link.](https://github.com/paternogbc/Ecologia-Evolutiva/blob/master/R/1_pacotes_necessarios.R)
 
 --------------------------------------------------------------------------------
 
 ### Download:
-Para baixar todos os arquivos do repositório: [zip]()
+Para baixar todos os arquivos do repositório: [link.](https://github.com/paternogbc/Ecologia-Evolutiva/archive/master.zip)
 
 ***
 
